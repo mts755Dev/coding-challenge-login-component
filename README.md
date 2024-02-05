@@ -13,7 +13,11 @@ This project is a simple React TypeScript login component with basic form valida
 
 ## Available Scripts
 
-In the project directory, you can run:
+First install the dependencies:
+
+### `npm install`
+
+Start the app:
 
 ### `npm start`
 
